@@ -1,0 +1,12 @@
+# Node.js
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Dependency directory
+dependency/
+
+# dotenv enviroment variables file
+.env
